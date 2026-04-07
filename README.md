@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-👉 [your-vercel-link.vercel.app]([https://your-vercel-link.vercel.app](https://weather-by-mrityunjay.vercel.app/))
+👉 [weather-by-mrityunjay.vercel.app](https://weather-by-mrityunjay.vercel.app)
 
 ---
 
