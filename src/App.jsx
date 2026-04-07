@@ -13,7 +13,8 @@ function App() {
   function handleSearch() {
     setWeatherDetails(null);
     if (cityName === "") {
-      return setError("City name blank, please enter a city name!");
+      setError("Blank city name , please enter a city name!");;
+      return;
     }
     setLoadingWeather(true);
     fetch(
